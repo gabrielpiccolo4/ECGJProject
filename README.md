@@ -1,4 +1,4 @@
-# ECGJProject
+# Oh! Scrap!
 
 The space scrapyard have been invaded by the space pirates, who made it their HQ. Taking control of a worker ship in the Scrapyard, you take on the ennemy ships equipped only with the magnet launcher of the ship!
 
